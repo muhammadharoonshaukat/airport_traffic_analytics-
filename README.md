@@ -78,7 +78,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Domestic: 511M (76.54%) 
 -	International: 157M (23.46%)
   
-👉 Interpretation:
+👉 Insight
 -	Airport is domestic-heavy 
 -	International traffic is significant but secondary 
 
@@ -86,7 +86,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Low Fare: 110M (16.46%) 
 -	Other: 558M (83.54%)
   
-👉 Insight:
+👉 Insight
 -	A large proportion of passengers fall into non-low-cost segments, suggesting a stronger presence of full-service or premium travel demand. 
 -	Indicates potential for higher revenue per passenger.
 
@@ -96,7 +96,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Asia: 66M 
 -	Europe: 21M
   
-👉 Interpretation:
+👉 Insight
 - US dominates traffic 
 -	Asia & Europe contribute but are minor segments 
 
@@ -108,7 +108,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	American: 51M 
 -	Delta: 43M
   
-👉 Insight:
+👉 Insight
 -	Passenger traffic is dominated by a few key airlines, with United Airlines holding a leading position. 
 -	This indicates market concentration, which may impact competition and dependency.
 
@@ -116,7 +116,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Boarding Area F: ~20M peak (June–August) 
 -	Others: 5M–9M
   
-👉 Interpretation:
+👉 Insight
 -	Boarding Area F is the busiest and most critical hub 
 -	Seasonal spikes indicate summer travel demand 
 
@@ -125,7 +125,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Increasing trend May–Dec 
 -	Decreasing Jan–Apr
   
-👉 Interpretation:
+👉 Insight
 -	Airport experiences more departures than arrivals 
 -	Seasonal fluctuations are evident 
 
@@ -136,7 +136,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	YoY Growth: 6% 
 -	MoM Growth: 0%
   
-👉 Insight:
+👉 Insight
 -	Cargo traffic is growing at a faster rate than passenger traffic, highlighting increasing importance of logistics operations. 
 -	Stable MoM indicates consistent short-term cargo movement.
 
@@ -145,7 +145,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Freighter: 2.6M 
 -	Combo: 0.1M
   
-👉 Insight:
+👉 Insight
 -	A significant portion of cargo is transported via passenger aircraft, reflecting operational efficiency through dual-use capacity. 
 -	Freighters remain essential for bulk cargo handling.
 
@@ -155,7 +155,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Deplaned: 
   -	Stable around 20K with fluctuations
     
-👉 Insight:
+👉 Insight
 -	Cargo movement exhibits cyclical patterns, indicating sensitivity to trade demand and economic conditions. 
 -	Export (enplaned) volumes tend to be higher, suggesting strong outbound logistics activity.
 
@@ -163,7 +163,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Domestic: 2.95M (40.03%) 
 -	International: 4.42M (59.97%)
   
-👉 Insight:
+👉 Insight
 -	Cargo traffic is primarily international, reflecting the airport’s role in global trade networks. 
 -	This contrasts with passenger traffic, showing different operational drivers.
 
@@ -174,7 +174,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Korean Air: 0.35M 
 -	China Airlines: 0.31M
   
-👉 Insight:
+👉 Insight
 -	Cargo operations are concentrated among key carriers, including both passenger and dedicated freight airlines. 
 -	Indicates reliance on strategic airline partnerships.
 
@@ -183,7 +183,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Mail: 0.87M (11.79%) 
 -	Express: 0.58M (7.86%)
    
-👉 Insight:
+👉 Insight
 -	Standard cargo dominates, indicating traditional freight demand outweighs express logistics. 
 -	Express segment, while smaller, represents a growing niche market.
 
@@ -193,7 +193,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Europe: 1M 
 -	Australia: 0.2M
   
-👉 Insight:
+👉 Insight
 -	Asia is the leading contributor, reflecting strong international trade connectivity.
 -	Indicates strong international trade flow 
 
@@ -201,7 +201,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	May–Dec: 40K–42K 
 -	Jan–Apr: 35K–37K
   
-👉 Insight:
+👉 Insight
 -	Cargo activity shows seasonal variation, with higher volumes in mid-to-late year. 
 -	Indicates need for seasonal capacity planning.
 
