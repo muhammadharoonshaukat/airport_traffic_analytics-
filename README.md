@@ -18,6 +18,7 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 ## 📊 Dashboard Structure
 - Page 1: Passengers Traffic Analytics
 - Page 2: Cargo Traffic Analytics
+  
 ![Dashboard](./images/passengers_dashboard.png)
 ![Dashboard](./images/cargo_dashboard.png)
 
