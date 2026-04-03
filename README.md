@@ -55,10 +55,10 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 -	Passenger traffic is growing steadily (+3%), indicating a healthy aviation market. 
 -	0% MoM growth suggests short-term stability, with no immediate acceleration in recent periods.
 
-### 📈 2. Trend Analysis (Line Chart)
+### 📈 2. Trend Analysis
 -	Domestic: 13M → 43M (2005–2018) 
 -	International: 4M → 15M (2005–2018) 
--	After 2018: International declining
+-	After 2018: Domestic aand International declining
   
 👉 Insight
 -	Domestic traffic shows consistent and sustained expansion, highlighting strong internal travel demand. 
