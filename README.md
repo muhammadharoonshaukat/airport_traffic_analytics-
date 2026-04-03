@@ -8,4 +8,10 @@ The project demonstrates how data can be used to enhance:
   
 This project demonstrates an end-to-end data analytics workflow using Power BI and DAX, including data modeling, KPI development, and interactive dashboard creation.
 
+## 📁 Dataset & Source
+-	Source: Kaggle – San Francisco Airport Traffic Dataset (https://www.kaggle.com/datasets/rajsengo/sfo-air-traffic-passenger-and-cargo-statistics/data)
+-	License: Open Data Commons PDDL (Public Domain)
+-	Time Period: 2005 – 2018 
+-	Purpose: Used for learning and building passenger and cargo analytics dashboards 
+-	Note: Dataset used strictly for educational purposes without modification
 
