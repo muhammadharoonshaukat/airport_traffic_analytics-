@@ -22,24 +22,24 @@ This project demonstrates an end-to-end data analytics workflow using Power BI a
 ## 🎯 BUSINESS QUESTIONS
 
 ## ✈️ Passenger Dashboard Questions
-9.	How is passenger traffic trending over time? 
-10.	Which regions contribute most to passenger traffic? 
-11.	Which airlines dominate passenger traffic? 
-12.	Which terminals handle the highest passenger load? 
-13.	What is the distribution between domestic and international traffic? 
-14.	What is the behavior of passenger activity (enplaned vs deplaned)? 
-15.	Which boarding areas are most utilized? 
-16.	What is the share of low-cost vs premium passengers? 
+1.	How is passenger traffic trending over time? 
+2.	Which regions contribute most to passenger traffic? 
+3.	Which airlines dominate passenger traffic? 
+4.	Which terminals handle the highest passenger load? 
+5.	What is the distribution between domestic and international traffic? 
+6.	What is the behavior of passenger activity (enplaned vs deplaned)? 
+7.	Which boarding areas are most utilized? 
+8.	What is the share of low-cost vs premium passengers? 
 
 ## 📦 Cargo Dashboard Questions
-9.	How is cargo traffic trending over time? 
-10.	Which airlines dominate cargo transportation? 
-11.	What is the distribution between domestic and international cargo? 
-12.	What is the share of cargo vs mail? 
-13.	Which aircraft types carry the most cargo? 
-14.	What is the import vs export (enplaned vs deplaned) pattern? 
-15.	Which regions contribute most to cargo traffic? 
-16.	How does cargo vary seasonally (monthly trend)? 
+1.	How is cargo traffic trending over time? 
+2.	Which airlines dominate cargo transportation? 
+3.	What is the distribution between domestic and international cargo? 
+4.	What is the share of cargo vs mail? 
+5.	Which aircraft types carry the most cargo? 
+6.	What is the import vs export (enplaned vs deplaned) pattern? 
+7.	Which regions contribute most to cargo traffic? 
+8.	How does cargo vary seasonally (monthly trend)? 
 
 ## 📊 PASSENGER DASHBOARD INSIGHTS
 
