@@ -4,5 +4,6 @@ The project demonstrates how data can be used to enhance:
 - Passenger traffic monitoring and forecasting 
 -	Airline performance and market share analysis 
 -	Cargo movement and logistics insights 
--	Airport operations and capacity planning 
+-	Airport operations and capacity planning
+  
 This project demonstrates an end-to-end data analytics workflow using Power BI and DAX, including data modeling, KPI development, and interactive dashboard creation.
